@@ -54,5 +54,3 @@ O jogo termina em empate se todas as células do tabuleiro forem preenchidas sem
 OU 
 
 1. Acesse o link https://onlinegdb.com/JuW_bpA2r e execute por la o código.
-
-Divirta-se jogando! 🎮
